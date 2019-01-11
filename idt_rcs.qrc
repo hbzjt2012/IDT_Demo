@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>IDTIcon.ico</file>
+    </qresource>
+</RCC>
